@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.21.1",
+    "nodemon": "^3.1.4",
+    "prompt-sync": "^4.2.0"
+  },
+  "name": "nodelab",
+  "version": "1.0.0",
+  "description": "it is a prctice of node js",
+  "main": "myApp.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sarthak",
+  "license": "ISC"
+}
